@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a8c4cd81.chunk.css",
-    "main.js": "/static/js/main.f24e2750.chunk.js",
-    "main.js.map": "/static/js/main.f24e2750.chunk.js.map",
+    "main.js": "/static/js/main.f57b24fd.chunk.js",
+    "main.js.map": "/static/js/main.f57b24fd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.891a904d.js",
     "runtime-main.js.map": "/static/js/runtime-main.891a904d.js.map",
     "static/js/2.fb1207b5.chunk.js": "/static/js/2.fb1207b5.chunk.js",
@@ -26,12 +26,13 @@
     "static/media/restaurant_app.56bee367.png": "/static/media/restaurant_app.56bee367.png",
     "static/media/ruby.a85cf9bb.svg": "/static/media/ruby.a85cf9bb.svg",
     "static/media/sass.4f6d501b.png": "/static/media/sass.4f6d501b.png",
+    "static/media/stories_app.35a10fbf.png": "/static/media/stories_app.35a10fbf.png",
     "static/media/weather_app.a921c936.png": "/static/media/weather_app.a921c936.png"
   },
   "entrypoints": [
     "static/js/runtime-main.891a904d.js",
     "static/js/2.fb1207b5.chunk.js",
     "static/css/main.a8c4cd81.chunk.css",
-    "static/js/main.f24e2750.chunk.js"
+    "static/js/main.f57b24fd.chunk.js"
   ]
 }
