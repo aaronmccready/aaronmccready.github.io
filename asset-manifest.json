@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a8c4cd81.chunk.css",
-    "main.js": "/static/js/main.f57b24fd.chunk.js",
-    "main.js.map": "/static/js/main.f57b24fd.chunk.js.map",
+    "main.js": "/static/js/main.b0b323ad.chunk.js",
+    "main.js.map": "/static/js/main.b0b323ad.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.891a904d.js",
     "runtime-main.js.map": "/static/js/runtime-main.891a904d.js.map",
     "static/js/2.fb1207b5.chunk.js": "/static/js/2.fb1207b5.chunk.js",
@@ -22,6 +22,7 @@
     "static/media/javascript.9afca26a.png": "/static/media/javascript.9afca26a.png",
     "static/media/linkedIn.60581a02.svg": "/static/media/linkedIn.60581a02.svg",
     "static/media/navbarLogo.6a38bb3f.png": "/static/media/navbarLogo.6a38bb3f.png",
+    "static/media/news_app.0fc03767.png": "/static/media/news_app.0fc03767.png",
     "static/media/react.73ac128a.png": "/static/media/react.73ac128a.png",
     "static/media/restaurant_app.56bee367.png": "/static/media/restaurant_app.56bee367.png",
     "static/media/ruby.a85cf9bb.svg": "/static/media/ruby.a85cf9bb.svg",
@@ -33,6 +34,6 @@
     "static/js/runtime-main.891a904d.js",
     "static/js/2.fb1207b5.chunk.js",
     "static/css/main.a8c4cd81.chunk.css",
-    "static/js/main.f57b24fd.chunk.js"
+    "static/js/main.b0b323ad.chunk.js"
   ]
 }
